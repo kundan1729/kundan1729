@@ -44,25 +44,25 @@ Hey there! I'm **Kundan Kumar**, a passionate **Full Stack Developer** specializ
 - **Overall Stats:**
 
 
-  ![](https://github-readme-stats.vercel.app/api?username=kundan234432&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=kundan1729&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
   
 
 
 - **Streak Stats:**
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=kundan234432&theme=aura&hide_border=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=kundan1729&theme=aura&hide_border=false)<br/>
 
 - **Top Languages:**
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kundan234432&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kundan1729&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=kundan234432&theme=radical&row=1&column=4&no-frame=true)<br/><br/>
+![](https://github-profile-trophy.vercel.app/?username=kundan1729&theme=radical&row=1&column=4&no-frame=true)<br/><br/>
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=kundan234432&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kundan1729&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
@@ -96,7 +96,7 @@ Feel free to reach out! I’d love to connect with fellow developers and tech en
 
 - 📧 **Email**: [kundan234432@gmail.com](mailto:kundan234432@gmail.com)
 
-- 🧑‍💻 **GitHub**: [kundan234432](https://github.com/kundan1729)
+- 🧑‍💻 **GitHub**: [kundan1729](https://github.com/kundan1729)
 
 ---
 
