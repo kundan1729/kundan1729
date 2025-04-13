@@ -96,7 +96,7 @@ Feel free to reach out! I’d love to connect with fellow developers and tech en
 
 - 📧 **Email**: [kundan234432@gmail.com](mailto:kundan234432@gmail.com)
 
-- 🧑‍💻 **GitHub**: [kundan234432](https://github.com/kundan234432)
+- 🧑‍💻 **GitHub**: [kundan234432](https://github.com/kundan1729)
 
 ---
 
